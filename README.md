@@ -11,12 +11,13 @@
   <img src="https://img.shields.io/badge/React.Js-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <br>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=black">
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <h3>Learning</h3>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Express-181717?style=for-the-badge&logo=Express&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-181717?style=for-the-badge&logo=Express&logoColor=white">
 </div>
 <hr>
 
