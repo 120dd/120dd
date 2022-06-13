@@ -4,6 +4,7 @@
 <h3>Front end web developer</h3>
 
 <div>
+  <a href="https://www.notion.so/chris-coder/Chris-coder-7a79fb789ba24ac3a15371061c5adae7" target="_blank"><img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/></a>
   <h3>TECH</h3>
     <img src="https://img.shields.io/badge/HtML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -22,6 +23,14 @@
     <br>
    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
    <img src="https://img.shields.io/badge/Express.js-181717?style=for-the-badge&logo=Express&logoColor=white">
+</div>
+<hr>
+<div>
+    <h5>
+    ⬇️ 홈페이지 바로가기 ⬇️
+    </h5>
+    <a href="https://www.notion.so/chris-coder/Chris-coder-7a79fb789ba24ac3a15371061c5adae7" target="_blank"><img         src="https://img.shields.io/badge/Notion-181717?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+  <br>
 </div>
 <hr>
 
