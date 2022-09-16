@@ -1,5 +1,5 @@
 
-<h2>Chris.choi/프론트엔드 웹 개발자 🍄</h2>
+<h2>Chris.choi/프론트엔드 웹 개발자(진) 🍄</h2>
 
 <h3>Front end web developer</h3>
 
